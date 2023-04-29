@@ -5,5 +5,5 @@
 ![ios_localauth](/screenshot/ios_localauth.gif) 
 
 
-### iOS
+### Android
 ![android_localauath](/screenshot/android_localauth.gif) 
